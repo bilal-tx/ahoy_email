@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = ">= 2.4"
 
-  spec.add_dependency "actionmailer", ">= 6"
+  spec.add_dependency "actionmailer", "6.0.0"
   spec.add_dependency "addressable", ">= 2.3.2"
   spec.add_dependency "nokogiri"
   spec.add_dependency "safely_block", ">= 0.1.1"
